@@ -9,3 +9,5 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGVCB&layout=compact&theme=holi)](https://github.com/GabrielGVCB/github-readme-stats">
   
 </div>
+
+![Snake animation] (https://github.com/GabrielGVCB)
