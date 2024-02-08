@@ -2,6 +2,7 @@
 
 - 🔭 Procurando primeira oportunidade...
 - 🌱 Estudando Desenvolvimento de Sistemas!
+- 🎓 Curso - ANGULAR | Proway.
 
 <div>
   
