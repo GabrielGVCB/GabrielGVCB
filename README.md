@@ -1,7 +1,6 @@
 ## Olá, me chamo Gabriel Vinicius
 
-- 🔭 Procurando primeira oportunidade...
-- 🌱 Estudando Desenvolvimento de Sistemas!
+- 🌱 Estudando Desenvolvimento de Sistemas e Engenharia de Software!
 - 🎓 Curso - ANGULAR | Proway.
 
 <div>
