@@ -1,5 +1,5 @@
 ## Olá, me chamo Gabriel Vinicius
-- 💻 Dev. @![image](https://github.com/user-attachments/assets/593a7138-6448-4209-9b8e-cce268476797) UltraLims
+- 💻 Dev. @<img align="center" alt="GV-CSS" height="30" width="40" src="https://github.com/user-attachments/assets/593a7138-6448-4209-9b8e-cce268476797"/> UltraLims
 
 - 🌱 Estudando Desenvolvimento de Sistemas e Engenharia de Software!
 - 🎓 Curso - ANGULAR | Proway.
