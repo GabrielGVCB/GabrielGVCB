@@ -8,8 +8,7 @@
 
 ## 📊 GitHub Contributions
 
-![Contributions](https://raw.githubusercontent.com/GabrielGVCB/README.md/main/caminho/da/)
-
+![Contributions 3D](https://raw.githubusercontent.com/GabrielGVCB/GabrielGVCB/main/contributions-3d.png)
 
 ---
 
