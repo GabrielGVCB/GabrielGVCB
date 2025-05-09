@@ -27,10 +27,6 @@ const gabriel = {
 
 gabriel.mensagem();
 ```
-    </td>
-    <td width="40%">
-      <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGl5MTFzODRtaDNqMTN1bXZnZGh5cWQwdWpleWN0dnltbHJmYmQzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
-    </td>
   </tr>
 </table>
 
