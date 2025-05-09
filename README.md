@@ -1,64 +1,82 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Olá Mundo! Sou Gabriel Vinícius
-
 <div align="center">
   
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=6E57E0&height=180&section=header&text=Desenvolvedor%20Full%20Stack&fontSize=42&fontColor=ffffff&animation=fadeIn)
+# 🚀 GABRIEL VINÍCIUS 🚀
 
-  <p>💼 <b>Dev estagiário na @UltraLims</b> <img align="center" height="24" width="32" src="https://github.com/user-attachments/assets/593a7138-6448-4209-9b8e-cce268476797"/></p>
-  <p>🚀 <b>Desenvolvedor Web</b></p>
-  <p>🎓 <b>Estudante de Desenvolvimento de Sistemas e Engenharia de Software</b></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=Desenvolvedor+Full+Stack;Angular+%26+PHP+Specialist;Entusiasta+de+Software+Engineering" alt="Typing SVG" />
 
-  <a href="https://github.com/GabrielGVCB/github-readme-streak-stats">
-    <img title="🔥 Sequência de contribuições" alt="Sequência de contribuições de Gabriel" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielGVCB&theme=tokyonight&hide_border=true"/>
+[![Status](https://img.shields.io/badge/Status-Coding%20in%20Progress-22c55e?style=flat-square&logo=statuspage&logoColor=white)](https://github.com/GabrielGVCB)
+
+</div>
+
+<table>
+  <tr>
+    <td width="60%">
+      <h2>👨‍💻 Sobre Mim</h2>
+      
+```javascript
+const gabriel = {
+  empresa: "UltraLims",
+  formação: "Desenvolvimento de Sistemas & Engenharia de Software",
+  cursos: ["Angular | Proway"],
+  hobbies: ["Coding", "Tech", "Learning"],
+  desafioAtual: "Aprimorar competências em arquitetura de software",
+  mensagem: function() {
+    console.log("Bem-vindo ao meu universo de código!");
+  }
+};
+
+gabriel.mensagem();
+```
+    </td>
+    <td width="40%">
+      <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGl5MTFzODRtaDNqMTN1bXZnZGh5cWQwdWpleWN0dnltbHJmYmQzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+    </td>
+  </tr>
+</table>
+
+## 🛠️ Arsenal Tecnológico
+
+<div align="center">
+
+| **FRONT-END** | **BACK-END** | **DEVOPS & TOOLS** |
+|:-------------:|:------------:|:------------------:|
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular" /> | <img src="https://skillicons.dev/icons?i=php,mysql" /> | <img src="https://skillicons.dev/icons?i=docker,linux,figma,git" /> |
+
+</div>
+
+## 📈 Performance Dashboard
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielGVCB&bg_color=111111&color=4CAF50&line=2196F3&point=FFC107&area=true&hide_border=true" width="100%">
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielGVCB&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGVCB&layout=compact&theme=radical&hide_border=true"/>
+</div>
+
+## 🏆 Conquistas
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielGVCB&theme=darkhub&no-frame=true&no-bg=true&column=7" width="100%">
+</div>
+
+## 📫 Canais de Comunicação
+
+<div align="center">
+  <a href="https://linkedin.com/in/gabrielgvcb">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://instagram.com/gabrielgvcb">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25" /> Jornada de Código
-
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGVCB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGVCB&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-      </td>
-    </tr>
-  </table>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=GabrielGVCB&style=for-the-badge&color=blueviolet">
+  <img alt="Dev na UltraLims" height="30" width="40" src="https://github.com/user-attachments/assets/593a7138-6448-4209-9b8e-cce268476797"/> 
 </div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" height="25" /> Stack Tecnológica
-
-<div align="center">
-
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  
-</div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" height="25" /> Métricas de Desenvolvimento
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielGVCB&theme=tokyonight" />
-</div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="25" height="25" /> Conecte-se Comigo
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielgvcb)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gabrielgvcb)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemailaqui@gmail.com)
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=6E57E0&height=120&section=footer)
