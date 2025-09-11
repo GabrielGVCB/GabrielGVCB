@@ -29,7 +29,7 @@ gabriel.mensagem();
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,php,mysql,docker,linux,figma,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,php,c,mysql,docker,linux,figma,git,vscode" />
 <br><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
