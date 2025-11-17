@@ -2,7 +2,7 @@
   
 #  GABRIEL VINÍCIUS </>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=Desenvolvedor+Full+Stack;Angular+%26+PHP+Specialist;Entusiasta+de+Software+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=Desenvolvedor+Full+Stack" alt="Typing SVG" />
 </div>
 
 <table>
