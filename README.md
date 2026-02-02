@@ -1,31 +1,25 @@
-<div align="center">
-  
-#  GABRIEL VINÍCIUS </>
+## 👨‍💻 Sobre Mim
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=Desenvolvedor+Full+Stack" alt="Typing SVG" />
-</div>
+Olá! Sou o **Gabriel Vinícius**, desenvolvedor full stack na **UltraLims** apaixonado por transformar ideias em soluções reais através do código.
 
-<table>
-  <tr>
-    <td width="60%">
-      <h2>👨‍💻 Sobre Mim</h2>
-      
-```javascript
-const gabriel = {
-  empresa: "UltraLims",
-  formação: "Desenvolvimento de Sistemas & Engenharia de Software",
-  cursos: ["Angular | Proway"],
-  hobbies: ["Coding", "Tech", "Learning"],
-  desafioAtual: "Aprimorar competências em arquitetura de software",
-  mensagem: function() {
-    console.log("Bem-vindo ao meu universo de código!");
-  }
-};
+### 🎓 Formação
+Atualmente cursando **Engenharia de Software** na Católica SC (Joinville), sou formado em **Desenvolvimento de Sistemas** pelo SENAI SC e tenho especialização em **Angular** pela Proway (Blumenau).
 
-gabriel.mensagem();
-```
-  </tr>
-</table>
+### 🚀 O que eu faço
+Trabalho com desenvolvimento full stack, construindo aplicações do zero ou melhorando sistemas existentes. Meu foco está em escrever código limpo, escalável e que faça sentido tanto para máquinas quanto para humanos.
+
+### 🎯 Foco Atual
+- Aprofundando em **arquitetura de software**
+- Aplicando **design patterns** em projetos reais
+- Estudando **Clean Code** e princípios **SOLID**
+- Sempre explorando novas tecnologias e tendências
+
+### 💡 Filosofia
+Acredito que bom código não é apenas aquele que funciona, mas aquele que outros desenvolvedores conseguem entender e evoluir. Valorizo qualidade, simplicidade e colaboração.
+
+---
+
+*"A melhor forma de prever o futuro é construí-lo."*
 
 ## 🛠️ Tech Stack
 <div align="center">
