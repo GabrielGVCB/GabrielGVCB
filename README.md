@@ -1,67 +1,61 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:111111&height=160&text=GABRIEL%20BATISTA&fontSize=48&fontColor=ffffff&fontAlignY=50&animation=fadeIn)](https://github.com/GabrielGVCB)
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header" width="100%"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Software+Developer)](https://git.io/typing-svg)
+# GABRIEL BATISTA
 
-</div>
+**`Engenheiro de Software · Joinville, SC`**
 
 <br>
+
+<a href="https://linkedin.com/in/gabrielgvcb"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2"/></a>&nbsp;
+<a href="https://instagram.com/gabrielgvcb"><img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=e4405f"/></a>&nbsp;
+<a href="mailto:gabriel.vinicius06.gb@gmail.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335"/></a>
 
 ---
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGVCB&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&langs_count=6"/>
+<br>
 
-### `> sobre mim`
+<table>
+<tr>
+<td width="55%" valign="top">
 
-Desenvolvedor full stack baseado em **Joinville, SC**.
-Trabalho na **UltraLims** construindo e evoluindo aplicações
-do zero com foco em qualidade e clareza de código.
+### Quem sou
 
-Cursando **Engenharia de Software** na Católica SC.
-Formado em **Desenvolvimento de Sistemas** pelo SENAI SC.
+Desenvolvedor full stack na **UltraLims**, onde construo e evoluo aplicações do zero — com obsessão por clareza de código e arquitetura que faz sentido.
+
+Cursando **Engenharia de Software** na Católica SC.  
+Formado em **Desenvolvimento de Sistemas** pelo SENAI SC.  
 Especialização em **Angular** pela Proway.
 
-<br><br><br><br>
+Meu foco atual:
 
----
-
-<br>
-
-### `> aprendendo agora`
-
-```diff
-+ Arquitetura de Software
-+ Design Patterns aplicados
-+ Clean Code & SOLID
-- Todo o resto que ainda não sei
+```
+Arquitetura de Software
+Design Patterns aplicados
+Clean Code & SOLID
 ```
 
+</td>
+<td width="45%" valign="top">
+
+### Stack
+
 <br>
 
----
+| Linguagens | Ferramentas |
+|:---:|:---:|
+| ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e) ![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777bb4) ![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=a8b9cc) | ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ed) ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f05032) ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=fcc624) ![VS Code](https://img.shields.io/badge/VSCode-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007acc) |
+| **Frameworks** | **Data & Design** |
+| ![Angular](https://img.shields.io/badge/Angular-0d1117?style=flat-square&logo=angular&logoColor=dd0031) | ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479a1) ![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=f24e1e) |
 
-<br>
-
-### `> tecnologias`
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-000?style=flat-square&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-000?style=flat-square&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-000?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -69,28 +63,19 @@ Especialização em **Angular** pela Proway.
 
 <br>
 
-### `> métricas`
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielGVCB&hide_border=true&background=000000&stroke=222222&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=444444" width="55%"/>
+### Atividade
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielGVCB&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=484f58" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGVCB&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="38%"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielGVCB&bg_color=000000&color=888888&line=ffffff&point=ffffff&area=true&area_color=1a1a1a&hide_border=true" width="92%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielGVCB&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff15&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es" width="92%"/>
 
-</div>
-
-<br>
-
----
-
-<br>
-
-### `> conquistas`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielGVCB&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=4&locale=pt-BR" width="90%"/>
 </div>
 
 <br>
@@ -101,26 +86,30 @@ Especialização em **Angular** pela Proway.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/gabrielgvcb">
-  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/gabrielgvcb">
-  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=instagram&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:gabriel.vinicius06.gb@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=GabrielGVCB&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=4" width="90%"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=GabrielGVCB&style=for-the-badge&color=0d1117&label=VIEWS"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=GabrielGVCB&style=flat-square&color=000000&label=visualizações"/>
+<sub>
+
+**Gabriel Vinícius** · Desenvolvedor Full Stack · <img alt="UltraLims" height="12" src="https://github.com/user-attachments/assets/593a7138-6448-4209-9b8e-cce268476797"/> UltraLims
+
+</sub>
 
 <br><br>
 
-[![footer](https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:000000&height=2&section=footer)](https://github.com/GabrielGVCB)
-
-<sub><kbd> Gabriel Vinícius </kbd> &nbsp;·&nbsp; <kbd> Desenvolvedor Full Stack </kbd> &nbsp;·&nbsp; <img alt="UltraLims" height="12" src="https://github.com/user-attachments/assets/593a7138-6448-4209-9b8e-cce268476797"/> <kbd> UltraLims </kbd></sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer" width="100%"/>
 
 </div>
