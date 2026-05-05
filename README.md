@@ -51,7 +51,7 @@ Clean Code & SOLID
 |:---:|:---:|
 | ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e) ![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777bb4) ![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=a8b9cc) | ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ed) ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f05032) ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=fcc624) ![VS Code](https://img.shields.io/badge/VSCode-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007acc) |
 | **Frameworks** | **Data & Design** |
-| ![Angular](https://img.shields.io/badge/Angular-0d1117?style=flat-square&logo=angular&logoColor=dd0031) | ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479a1) ![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=f24e1e) |
+| ![Angular](https://img.shields.io/badge/Angular-0d1117?style=flat-square&logo=angular&logoColor=dd0031) ![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=dd0031)| ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479a1) ![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=f24e1e) |
 
 </td>
 </tr>
