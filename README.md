@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Gabriel Batista — Full Stack · System Architecture · Brazil">
+  <img src="assets/header-light.svg" alt="Gabriel Chiarelli — Backend · Integrations · System Architecture · Brazil">
 </picture>
 
 </div>
@@ -11,20 +11,21 @@
 
 ## Sobre mim
 
-```php
-class Gabriel {
-    public $location    = "Joinville, SC — Brasil";
-    public $education   = "Engenharia de Software — em andamento (Católica SC)";
-    public $background  = "Full Stack Developer @ UltraLims";
-    public $formacao    = ["Dev de Sistemas — SENAI SC", "Especialização em Angular — Proway"];
-    public $focus       = ["back-end", "front-end", "arquitetura de software", "design patterns"];
-    public $learning    = ["Angular avançado", "clean code & SOLID", "system design"];
-    public $offTheClock = ["café", "jogos", "artigos técnicos"];
+```js
+class Gabs {
+  constructor() {
+    this.location    = "Brasil";
+    this.education   = "Engenharia de Software — em andamento";
+    this.background  = "infraestrutura de TI";
+    this.focus       = ["back-end", "APIs REST", "integrações", "arquitetura"];
+    this.learning    = ["Node.js", "TypeScript", "design patterns", "Oracle performance"];
+    this.offTheClock = ["games", "artigos técnicos", "café", "animes"];
+  }
 
-    public function howDoIWork() {
-        return "construo e evoluo aplicações do zero — " .
-               "com obsessão por clareza de código e arquitetura que faz sentido";
-    }
+  howDoIWork() {
+    return "me dá o sistema mais complicado da casa — " +
+           "eu leio, mapeio e devolvo mais legível do que encontrei";
+  }
 }
 ```
 
@@ -34,17 +35,14 @@ class Gabriel {
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" alt="Stack: TypeScript, JavaScript, PHP, C, Angular, Express, Docker, Git, Linux, VS Code, MySQL, Figma"/>
+  <img src="assets/stack-light.svg" alt="Stack: Python, TypeScript, JavaScript, Java, Lua, Node.js, Spring, Docker, Postman, Git, React, Tailwind, HTML5, CSS3, Oracle, PostgreSQL, MySQL, ADVPL, Protheus"/>
 </picture>
 
 </div>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-  <img src="assets/terminal-light.svg" alt="whoami · cat agora.txt">
-</picture>
+<img src="assets/terminal.gif" alt="whoami · cat now.txt">
 
 <br><br>
 
@@ -55,7 +53,7 @@ class Gabriel {
 
 <br><br>
 
-[**LinkedIn**](https://linkedin.com/in/gabrielgvcb) &nbsp;·&nbsp; [**Instagram**](https://instagram.com/gabrielgvcb) &nbsp;·&nbsp; [**Email**](mailto:gabriel.vinicius06.gb@gmail.com)
+[**LinkedIn**](http://www.linkedin.com/in/gabriel-chiarelli-sz) &nbsp;·&nbsp; [**Discord**](https://discord.com/users/477968592994828290)
 
 <br>
 
